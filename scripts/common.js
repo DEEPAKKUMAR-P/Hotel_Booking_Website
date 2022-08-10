@@ -21,7 +21,7 @@ let footerTemplate = `<footer>
   </button>
 </div>
 <div id="copyrightDiv">
-  <p id="copyright">Ⓒ 2021 AnkitProject</p>
+  <p id="copyright">Ⓒ 2022 Deepak_Project</p>
 </div>
 <div id="socialMediaDiv">
   <a href="https://www.facebook.com" target="_blank"><img class="socialMedia" src="assests/images/facebook.png" alt="facebook"></a>
